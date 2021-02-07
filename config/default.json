@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "test-key-mern",
+  "mongoUri": "mongodb+srv://daimant:qoruUd2h@cluster0.05dxl.mongodb.net/app?retryWrites=true&w=majority"
+}
