@@ -12,7 +12,6 @@ export const Navbar = () => {
     history.push('/');
   };
 
-
   return (
     <nav>
       <div className="nav-wrapper blue darken-1" style={{padding: '0 2rem'}}>
